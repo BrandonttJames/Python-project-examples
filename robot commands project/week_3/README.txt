@@ -1,0 +1,1 @@
+The following project contains two python scripts used for giving various commands to a turtle robot. They were ran through linux and ROS software
